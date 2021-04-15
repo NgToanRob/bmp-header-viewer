@@ -1,5 +1,8 @@
-Просмотрщик заголовков BMP файлов | BMP header viewer
+BMP header viewer
+Просмотрщик заголовков BMP файлов
 ---
+
+[![pipeline status](https://gitlab.se.ifmo.ru/low-level-programming/bmp-header-viewer/badges/master/pipeline.svg)](https://gitlab.se.ifmo.ru/low-level-programming/bmp-header-viewer/-/commits/master)
 
 A program to display the header of a BMP file.
 
