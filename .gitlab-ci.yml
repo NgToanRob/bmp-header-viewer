@@ -16,3 +16,5 @@ test:
   script:
     - echo "Compiling"
     - make
+    - echo "Running test"
+    - test/test.sh
